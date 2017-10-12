@@ -1,4 +1,3 @@
 # Summary
-* [前言](README.md)     
-
-  * [A](A.md)
+* [前言](README.md)
+* [A](A.md)
